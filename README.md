@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning network security programme in linneaus university
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me emailid- zeeshanahmed26.sk@gmail.com
+- 📫 How to reach me emailid- zs222dr@student.lnu.se
 
 <!---
 shaikzeeshanahmed/shaikzeeshanahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
